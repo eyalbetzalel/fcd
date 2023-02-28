@@ -18,7 +18,9 @@ folders containing PNG format images.
 
 ## Citing
 
-@misc{https://doi.org/10.48550/arxiv.2206.10935,
+If you find our work or this code to be useful in your own research, please consider citing the following paper:
+
+```@misc{https://doi.org/10.48550/arxiv.2206.10935,
   doi = {10.48550/ARXIV.2206.10935},
   
   url = {https://arxiv.org/abs/2206.10935},
@@ -31,4 +33,4 @@ folders containing PNG format images.
   
   year = {2022}
   
-}
+}```
