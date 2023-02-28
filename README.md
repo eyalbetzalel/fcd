@@ -17,3 +17,18 @@
 folders containing PNG format images.  
 
 ## Citing
+
+@misc{https://doi.org/10.48550/arxiv.2206.10935,
+  doi = {10.48550/ARXIV.2206.10935},
+  
+  url = {https://arxiv.org/abs/2206.10935},
+  
+  author = {Betzalel, Eyal and Penso, Coby and Navon, Aviv and Fetaya, Ethan},
+  
+  title = {A Study on the Evaluation of Generative Models},
+  
+  publisher = {arXiv},
+  
+  year = {2022}
+  
+}
